@@ -48,11 +48,11 @@ connect4/
 
 🚀 Future Improvements
 
-Add AI opponent mode (using minimax algorithm)
+- Add AI opponent mode (using minimax algorithm)
 
-Add scoreboard and menu UI
+- Add scoreboard and menu UI
 
-Add sound effects and animations
+- Add sound effects and animations
 
 👩‍💻 Author
 
